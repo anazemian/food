@@ -1,0 +1,82 @@
+body{
+  background-color: rgb(51, 51, 51);
+}
+div {
+  /*border: 2px solid black;*/
+  width: 80%;
+  height: 40%;
+}
+
+#topten {
+    float: left;
+    background-color:rgb(45, 45, 45);
+    width:10%;
+    padding:5px;
+    margin-right: 20px;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.top {
+  width: 80%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  float: right;
+  margin-bottom: 5px;
+}
+
+/*.rowtwo{
+  display: flex;
+  justify-content: flex-end;
+}*/
+
+#cucina {
+  width: 80%;
+  height: 10%;
+  border: 2px black solid;
+
+}
+#pho{
+  display: flex;
+  justify-content: center;
+}
+
+#valentines{
+  display: flex;
+  justify-content: center;
+}
+
+#soup{
+  width: 60%;
+  height: 10%;
+  border: 2px black solid;
+}
+#burrito{
+  width: 60%;
+  height: 10%;
+  border: 2px black solid;
+}
+#words{
+  width: 60%;
+  height: 10%;
+  border: 2px black solid;
+}
+
+p {
+  color: white;
+  margin-right: 30px
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-align: center;
+}
+
+#thai {
+  width: 60%;
+  height: 10%;
+  border: 2px black solid;
+}
+
+#bahn{
+  display:flex;
+  justify-content: center;
+}
